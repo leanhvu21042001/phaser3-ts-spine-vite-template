@@ -11,7 +11,7 @@ export default class SpineDemo extends Phaser.Scene {
   private animationIndex = 0;
 
   constructor() {
-    super("app");
+    super("SpineDemo");
   }
 
   preload() {
